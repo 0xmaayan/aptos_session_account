@@ -1,0 +1,8 @@
+build/
+.aptos/
+.cursor/
+*.log
+.DS_Store
+*.swp
+*.swo
+*~ 
